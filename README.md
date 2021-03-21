@@ -1,2 +1,2 @@
-# symfony.loc
+# symfony test app
  
